@@ -156,8 +156,8 @@ Fitness = 1,0 berarti jadwal **tanpa bentrok**.
 
 ## 8. Anggota kelompok
 
-(isi nama, NIM, dan peran masing-masing)
-
-## 9. Tautan repositori
-
-(isi tautan GitHub/GitLab; dosen `noverara@gmail.com` ditambahkan sebagai kolaborator)
+IAN GRIZELD TURANG (2430305030016)
+MIKAELANDIWIJAYALIANO (2430205030027)
+MUHAMMAD NAZRIL ABDILLAH (2430205030026)
+JOSHUA ALEXANDER (2430305030003)
+YEAND SALTAMA FAKULTAS TEKNIK (2430205030018)
